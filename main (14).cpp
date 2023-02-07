@@ -6,6 +6,8 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+
+//given n is power of 2 or not
 #include <iostream>
 
 using namespace std;
