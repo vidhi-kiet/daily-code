@@ -17,7 +17,7 @@ int main()
   int n;
   cout<<"no.:";
   cin>>n;
-  int a;
+  int a=0;
   for(int i=1;i<=n;i++)
   {
       a=a^i;
